@@ -7,5 +7,6 @@ added to the queue are the relevant vertices which actually get traversed. Simil
 Create a graph using the dictionary file words5.txt and then using that graph and Dijkstra's algorithm find the path with the lowest weight from the start to end word.
 Print the path between the two words.
 
-If there is no path between the two words, the appropriate message gets printed. 
+If there is no path between the two words, the appropriate message gets printed.
+
 Use the dictionary file words5.txt to test the program.
