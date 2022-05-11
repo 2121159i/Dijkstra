@@ -5,7 +5,7 @@ import java.util.Queue;
 /**
  class to represent an undirected graph using adjacency lists
  */
-public class Graph {
+public class Graph { //ne graph a grafika
 
 	private Vertex[] vertices; // the (array of) vertices
 	private int numVertices = 0; // number of vertices
