@@ -1,6 +1,6 @@
 
 /**
- class to represent an entry in the adjacency list of a vertex
+ class to represent an entry in the adjacency list of a vertexaskfjdkoghfdg
  in a graph
 */
 public class AdjListNode {
